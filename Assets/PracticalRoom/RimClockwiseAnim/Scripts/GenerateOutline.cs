@@ -33,6 +33,7 @@ public class GenerateOutline : MonoBehaviour {
 		}else{
 			outlineObject = Instantiate(objectToOutline, objectToOutlineTransform);
 			outlineObject.transform.localRotation = Quaternion.identity;
+			outlineObject.transform.localPosition = Vector3.zero;
 			outlineObject.layer = LayerMask.NameToLayer("Outline");
 			outlineObject.GetComponent<Renderer>().material = outlineMaterial;
 			SetThickness();
