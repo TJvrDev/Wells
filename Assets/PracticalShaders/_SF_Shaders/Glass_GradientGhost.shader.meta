@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e8621e75973778340951e21d2995e4ab
+timeCreated: 1517213028
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _OrbFalloff: {fileID: 2800000, guid: 5de0eafe0c281495b8272d9a1d7c3ea8, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

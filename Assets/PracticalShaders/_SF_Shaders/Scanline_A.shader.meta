@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: b96a5a88645e62341b3d71bc545b0449
+timeCreated: 1517716175
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _Scanlines: {fileID: 2800000, guid: 5a23f447c3e4be74aac1604cb713c6ea, type: 3}
+  - _ScanOpacity: {fileID: 2800000, guid: c7d066e41d7d7304d9402cb0cba64261, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

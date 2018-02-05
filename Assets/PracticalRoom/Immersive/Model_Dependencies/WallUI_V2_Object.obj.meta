@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 5ee825b1b36238d4cb1f0d1c1d05d71f
+timeCreated: 1512832855
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Box_Ceiling
+    100002: Box_Floor
+    100004: Box_Wall_Back
+    100006: Box_Wall_L
+    100008: Box_Wall_Menu
+    100010: Box_Wall_R
+    100012: Frame
+    100014: Hex_logo
+    100016: Lamp1
+    100018: Lamp1_Base
+    100020: Lamp1_Shade
+    100022: Lamp2
+    100024: Lamp2_Base
+    100026: Lamp2_Shade
+    100028: Table
+    100030: //RootNode
+    400000: Box_Ceiling
+    400002: Box_Floor
+    400004: Box_Wall_Back
+    400006: Box_Wall_L
+    400008: Box_Wall_Menu
+    400010: Box_Wall_R
+    400012: Frame
+    400014: Hex_logo
+    400016: Lamp1
+    400018: Lamp1_Base
+    400020: Lamp1_Shade
+    400022: Lamp2
+    400024: Lamp2_Base
+    400026: Lamp2_Shade
+    400028: Table
+    400030: //RootNode
+    2300000: Box_Ceiling
+    2300002: Box_Floor
+    2300004: Box_Wall_Back
+    2300006: Box_Wall_L
+    2300008: Box_Wall_Menu
+    2300010: Box_Wall_R
+    2300012: Frame
+    2300014: Hex_logo
+    2300016: Lamp1
+    2300018: Lamp1_Base
+    2300020: Lamp1_Shade
+    2300022: Lamp2
+    2300024: Lamp2_Base
+    2300026: Lamp2_Shade
+    2300028: Table
+    3300000: Box_Ceiling
+    3300002: Box_Floor
+    3300004: Box_Wall_Back
+    3300006: Box_Wall_L
+    3300008: Box_Wall_Menu
+    3300010: Box_Wall_R
+    3300012: Frame
+    3300014: Hex_logo
+    3300016: Lamp1
+    3300018: Lamp1_Base
+    3300020: Lamp1_Shade
+    3300022: Lamp2
+    3300024: Lamp2_Base
+    3300026: Lamp2_Shade
+    3300028: Table
+    4300000: Box_Ceiling
+    4300002: Box_Floor
+    4300004: Box_Wall_Back
+    4300006: Box_Wall_L
+    4300008: Box_Wall_Menu
+    4300010: Box_Wall_R
+    4300012: Frame
+    4300014: Hex_logo
+    4300016: Lamp1
+    4300018: Lamp1_Base
+    4300020: Lamp1_Shade
+    4300022: Lamp2
+    4300024: Lamp2_Base
+    4300026: Lamp2_Shade
+    4300028: Table
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
